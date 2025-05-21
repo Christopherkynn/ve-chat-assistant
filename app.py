@@ -1,5 +1,5 @@
 import streamlit as st
-from llama_index.core import VectorStoreIndex, SimpleDirectoryReader
+from llama_index import GPTVectorStoreIndex, SimpleDirectoryReader
 from llama_index.llms import OpenAI
 import os
 
