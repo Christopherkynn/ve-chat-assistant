@@ -1,0 +1,5 @@
+streamlit
+llama-index==0.9.48
+openai
+docx2txt
+cryptography
